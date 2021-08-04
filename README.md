@@ -70,7 +70,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 8: Loops](https://norasandler.com/2018/04/10/Write-a-Compiler-8.html)
   - [Part 9: Functions](https://norasandler.com/2018/06/27/Write-a-Compiler-9.html)
   - [Part 10: Global Variables](https://norasandler.com/2019/02/18/Write-a-Compiler-10.html)
-- [Implementing a Language with LLVM](https://llvm.org/docs/tutorial/#kaleidoscope-implementing-a-language-with-llvm)
+- [ ] [Implementing a Language with LLVM](https://llvm.org/docs/tutorial/#kaleidoscope-implementing-a-language-with-llvm)
 - [Meta Crush Saga: a C++17 compile-time game](https://jguegant.github.io//jguegant.github.io/blogs/tech/meta-crush-saga.html)
 - [High-Performance Matrix Multiplication](https://gist.github.com/nadavrot/5b35d44e8ba3dd718e595e40184d03f0)
 - Space Invaders from Scratch
@@ -94,7 +94,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ### Network programming
 
-- Let's Code a TCP/IP Stack
+- [ ] Let's Code a TCP/IP Stack
 
   - [Part 1: Ethernet & ARP](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
   - [Part 2: IPv4 & ICMPv4](http://www.saminiir.com/lets-code-tcp-ip-stack-2-ipv4-icmpv4/)
