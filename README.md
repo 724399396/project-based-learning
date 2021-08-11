@@ -102,7 +102,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 4: TCP Data Flow & Socket API](http://www.saminiir.com/lets-code-tcp-ip-stack-4-tcp-data-flow-socket-api/)
   - [Part 5: TCP Retransmission](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/)
 
--  [ ] Programming concurrent servers
+-  [x] Programming concurrent servers
   - [Part 1 - Introduction](https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/)
   - [Part 2 - Threads](https://eli.thegreenplace.net/2017/concurrent-servers-part-2-threads/)
   - [Part 3 - Event-driven](https://eli.thegreenplace.net/2017/concurrent-servers-part-3-event-driven/)
@@ -110,7 +110,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 5 - Redis case study](https://eli.thegreenplace.net/2017/concurrent-servers-part-5-redis-case-study/)
   - [Part 6 - Callbacks, Promises and async/await](https://eli.thegreenplace.net/2018/concurrent-servers-part-6-callbacks-promises-and-asyncawait/)
  
-- MQTT Broker from scratch
+- [ ] MQTT Broker from scratch
   - [Part 1 - The protocol](https://codepr.github.io/posts/sol-mqtt-broker)
   - [Part 2 - Networking](https://codepr.github.io/posts/sol-mqtt-broker-p2)
   - [Part 3 - Server](https://codepr.github.io/posts/sol-mqtt-broker-p3)
