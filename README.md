@@ -110,7 +110,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 5 - Redis case study](https://eli.thegreenplace.net/2017/concurrent-servers-part-5-redis-case-study/)
   - [Part 6 - Callbacks, Promises and async/await](https://eli.thegreenplace.net/2018/concurrent-servers-part-6-callbacks-promises-and-asyncawait/)
  
-- [ ] MQTT Broker from scratch
+- [x] MQTT Broker from scratch
   - [Part 1 - The protocol](https://codepr.github.io/posts/sol-mqtt-broker)
   - [Part 2 - Networking](https://codepr.github.io/posts/sol-mqtt-broker-p2)
   - [Part 3 - Server](https://codepr.github.io/posts/sol-mqtt-broker-p3)
@@ -149,7 +149,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## Clojure:
 
-- [Build a Twitter Bot with Clojure](http://howistart.org/posts/clojure/1/index.html)
+- [ ] [Build a Twitter Bot with Clojure](http://howistart.org/posts/clojure/1/index.html)
 - [Building a Spell-Checker](https://bernhardwenzel.com/articles/clojure-spellchecker/)
 - [Building a JIRA integration with Clojure & Atlassian Connect](https://hackernoon.com/building-a-jira-integration-with-clojure-atlassian-connect-506ebd112807)
 - [Prototyping with Clojure](https://github.com/aliaksandr-s/prototyping-with-clojure)
