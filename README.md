@@ -149,10 +149,10 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## Clojure:
 
-- [ ] [Build a Twitter Bot with Clojure](http://howistart.org/posts/clojure/1/index.html)
-- [Building a Spell-Checker](https://bernhardwenzel.com/articles/clojure-spellchecker/)
+- [x] [Build a Twitter Bot with Clojure](http://howistart.org/posts/clojure/1/index.html)
+- [x] [Building a Spell-Checker](https://bernhardwenzel.com/articles/clojure-spellchecker/)
 - [Building a JIRA integration with Clojure & Atlassian Connect](https://hackernoon.com/building-a-jira-integration-with-clojure-atlassian-connect-506ebd112807)
-- [Prototyping with Clojure](https://github.com/aliaksandr-s/prototyping-with-clojure)
+- [ ] [Prototyping with Clojure](https://github.com/aliaksandr-s/prototyping-with-clojure)
 - [Tetris in ClojureScript](https://shaunlebron.github.io/t3tr0s-slides)
 
 ## Elixir
